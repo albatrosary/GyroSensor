@@ -1,0 +1,1 @@
+"use stract";!function(){function a(a){document.querySelector("#beta").value=a.beta,document.querySelector("#gamma").value=a.gamma,document.querySelector("#alpha").value=a.alpha}window.addEventListener("deviceorientation",a)}();
